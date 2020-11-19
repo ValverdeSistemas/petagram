@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Puppygram</string>
+    <string name="title_activity_detalle_contacto">DetalleContacto</string>
+    <string name="nombre">Valverde Sistemas</string>
+    <string name="telefono">097837255</string>
+    <string name="email">valverdesistemas@gmail.com</string>
+
+
+    <string name="pnombre">Nombre</string>
+    <string name="ptelefono">Telefono</string>
+    <string name="pemail">Email</string>
+
+    <string name="amarillo_likes">12</string>
+    <string name="todo">TODO</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="estrella">Link a Favoritos</string>
+
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_about">Sobre</string>
+    <string name="Cmensaje">Escribe aqui su mensaje !</string>
+    <string name="boton_enviar">Enviar</string>
+    <string name="Miemail">valverdesistemas@gmail.com</string>
+    <string name="Minombre">Valverde</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="boton_guardar">Guardar</string>
+</resources>
